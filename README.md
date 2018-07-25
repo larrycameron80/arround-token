@@ -1,4 +1,4 @@
-# ARRound ICO
+# ARROUND Platform ICO
 ARROUND's repository
 
 ## How to use
